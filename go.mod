@@ -1,5 +1,5 @@
 module radigo
 
-go 1.14
+go 1.15
 
-require golang.org/x/net v0.0.0-20200301022130-244492dfa37a
+require golang.org/x/net v0.0.0-20200927032502-5d4f70055728

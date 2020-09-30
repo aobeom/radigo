@@ -11,12 +11,13 @@ Usage of radigo:
         End DateTime eg: 20190101120000
   -proxy string
         Set a Proxy eg: 127.0.0.1:1080
+  -raw string
+        Download AAC Only (a file)
   -start_at string
         Start DateTime eg: 20190101110000
   -station string
         Station ID eg: TBS
-  -thread
-        Thread Mode
 
-go run radigo.go -station LFR -start_at 20190101005300 -end_at 20190101005800 -proxy 127.0.0.1:1080 -thread
+go run main.go -station LFR -start_at 20190101005300 -end_at 20190101005800 -proxy 127.0.0.1:1080
+go run main.go -raw m3u8.txt
 ```

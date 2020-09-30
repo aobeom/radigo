@@ -16,9 +16,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/HBC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/HBC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/HBC/lrtrim/688x160.png</logo>
+      <tf_max_delay>150</tf_max_delay>
       <banner>http://radiko.jp/res/banner/HBC/20160908091323.png</banner>
       <area_id>JP1</area_id>
-      <href>http://www.hbc.co.jp/radio/index.html</href>
+      <href>https://www.hbc.co.jp</href>
     </station>
     <station>
       <id>STV</id>
@@ -35,9 +36,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/STV/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/STV/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/STV/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/STV/20171027160044.jpg</banner>
+      <tf_max_delay>90</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/STV/20200525215643.jpg</banner>
       <area_id>JP1</area_id>
-      <href>http://www.stv.ne.jp/radio/</href>
+      <href>https://www.stv.jp</href>
     </station>
     <station>
       <id>AIR-G</id>
@@ -54,9 +56,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/AIR-G/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/AIR-G/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/AIR-G/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/AIR-G/20110927104311.png</banner>
+      <tf_max_delay>90</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/AIR-G/20200828145049.png</banner>
       <area_id>JP1</area_id>
-      <href>http://www.air-g.co.jp/</href>
+      <href>https://www.air-g.co.jp/</href>
     </station>
     <station>
       <id>NORTHWAVE</id>
@@ -73,9 +76,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/NORTHWAVE/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/NORTHWAVE/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/NORTHWAVE/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/NORTHWAVE/20150731161543.png</banner>
       <area_id>JP1</area_id>
-      <href>http://www.fmnorth.co.jp/</href>
+      <href>https://www.fmnorth.co.jp/</href>
     </station>
     <station>
       <id>RAB</id>
@@ -92,9 +96,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RAB/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RAB/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RAB/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/RAB/20140916175044.png</banner>
       <area_id>JP2</area_id>
-      <href>http://www.rab.co.jp/</href>
+      <href>https://www.rab.co.jp/</href>
     </station>
     <station>
       <id>AFB</id>
@@ -111,9 +116,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/AFB/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/AFB/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/AFB/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/AFB/20170313163943.png</banner>
       <area_id>JP2</area_id>
-      <href>http://www.afb.co.jp/</href>
+      <href>https://www.afb.co.jp/</href>
     </station>
     <station>
       <id>IBC</id>
@@ -130,9 +136,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/IBC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/IBC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/IBC/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/IBC/20180405204944.png</banner>
       <area_id>JP3</area_id>
-      <href>http://www.ibc.co.jp/radio/</href>
+      <href>https://www.ibc.co.jp/radio/</href>
     </station>
     <station>
       <id>FMI</id>
@@ -149,6 +156,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMI/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMI/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMI/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FMI/20160928162653.png</banner>
       <area_id>JP3</area_id>
       <href>http://www.fmii.co.jp/</href>
@@ -168,7 +176,8 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/TBC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/TBC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/TBC/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/TBC/20181024183105.jpg</banner>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/TBC/20200708144333.jpg</banner>
       <area_id>JP4</area_id>
       <href>http://www.tbc-sendai.co.jp/02radio/</href>
     </station>
@@ -187,7 +196,8 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/DATEFM/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/DATEFM/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/DATEFM/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/DATEFM/20160901231947.png</banner>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/DATEFM/20200423150841.jpg</banner>
       <area_id>JP4</area_id>
       <href>http://www.datefm.co.jp/</href>
     </station>
@@ -206,9 +216,30 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/ABS/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/ABS/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/ABS/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/ABS/20170523122815.png</banner>
       <area_id>JP5</area_id>
-      <href>http://www.akita-abs.co.jp/</href>
+      <href>https://www.akita-abs.co.jp/</href>
+    </station>
+    <station>
+      <id>AFM</id>
+      <name>エフエム秋田</name>
+      <ascii_name>FM AKITA</ascii_name>
+      <ruby>えふえむあきた</ruby>
+      <areafree>1</areafree>
+      <timefree>1</timefree>
+      <logo width="224" height="100" align="center">http://radiko.jp/v2/static/station/logo/AFM/224x100.png</logo>
+      <logo width="258" height="60" align="center">http://radiko.jp/v2/static/station/logo/AFM/258x60.png</logo>
+      <logo width="448" height="200" align="center">http://radiko.jp/v2/static/station/logo/AFM/448x200.png</logo>
+      <logo width="688" height="160" align="center">http://radiko.jp/v2/static/station/logo/AFM/688x160.png</logo>
+      <logo width="224" height="100" align="lrtrim">http://radiko.jp/v2/static/station/logo/AFM/lrtrim/224x100.png</logo>
+      <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/AFM/lrtrim/258x60.png</logo>
+      <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/AFM/lrtrim/448x200.png</logo>
+      <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/AFM/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/AFM/banner.png</banner>
+      <area_id>JP5</area_id>
+      <href>http://www.fm-akita.co.jp/</href>
     </station>
     <station>
       <id>YBC</id>
@@ -225,9 +256,30 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/YBC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/YBC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/YBC/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/YBC/20150708130536.png</banner>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/YBC/20191220163403.png</banner>
       <area_id>JP6</area_id>
       <href>http://www.ybc.co.jp/</href>
+    </station>
+    <station>
+      <id>RFM</id>
+      <name>Rhythm Station　エフエム山形</name>
+      <ascii_name>FM YAMAGATA</ascii_name>
+      <ruby>りずむすてーしょんえふえむやまがた</ruby>
+      <areafree>1</areafree>
+      <timefree>1</timefree>
+      <logo width="224" height="100" align="center">http://radiko.jp/v2/static/station/logo/RFM/224x100.png</logo>
+      <logo width="258" height="60" align="center">http://radiko.jp/v2/static/station/logo/RFM/258x60.png</logo>
+      <logo width="448" height="200" align="center">http://radiko.jp/v2/static/station/logo/RFM/448x200.png</logo>
+      <logo width="688" height="160" align="center">http://radiko.jp/v2/static/station/logo/RFM/688x160.png</logo>
+      <logo width="224" height="100" align="lrtrim">http://radiko.jp/v2/static/station/logo/RFM/lrtrim/224x100.png</logo>
+      <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RFM/lrtrim/258x60.png</logo>
+      <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RFM/lrtrim/448x200.png</logo>
+      <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RFM/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/RFM/20200401145756.png</banner>
+      <area_id>JP6</area_id>
+      <href>http://www.rfm.co.jp/</href>
     </station>
     <station>
       <id>RFC</id>
@@ -244,9 +296,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RFC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RFC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RFC/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/RFC/20190121162223.png</banner>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/RFC/banner.png</banner>
       <area_id>JP7</area_id>
-      <href>http://www.rfc.jp/index.html</href>
+      <href>http://www.rfc.jp/</href>
     </station>
     <station>
       <id>FMF</id>
@@ -263,6 +316,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMF/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMF/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMF/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FMF/20190703144421.jpg</banner>
       <area_id>JP7</area_id>
       <href>http://www.fmf.co.jp/</href>
@@ -282,9 +336,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOIK/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOIK/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOIK/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/JOIK/20180412101601.png</banner>
       <area_id>JP1</area_id>
-      <href>http://www.nhk.or.jp/radio/</href>
+      <href>https://www.nhk.or.jp/radio/</href>
     </station>
     <station>
       <id>JOHK</id>
@@ -301,9 +356,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOHK/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOHK/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOHK/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/JOHK/20170922183913.png</banner>
       <area_id>JP4</area_id>
-      <href>http://www.nhk.or.jp/radio/</href>
+      <href>https://www.nhk.or.jp/radio/</href>
     </station>
   </stations>
   <stations ascii_name="KANTO" region_id="kanto" region_name="関東">
@@ -322,9 +378,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/TBS/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/TBS/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/TBS/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/TBS/20180727163922.jpg</banner>
+      <tf_max_delay>90</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/TBS/20200331114320.jpg</banner>
       <area_id>JP13</area_id>
-      <href>http://www.tbs.co.jp/radio/</href>
+      <href>https://www.tbsradio.jp/</href>
     </station>
     <station>
       <id>QRR</id>
@@ -341,6 +398,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/QRR/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/QRR/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/QRR/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/QRR/20180412210942.png</banner>
       <area_id>JP13</area_id>
       <href>http://www.joqr.co.jp/</href>
@@ -360,7 +418,8 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/LFR/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/LFR/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/LFR/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/LFR/20190415074607.jpg</banner>
+      <tf_max_delay>90</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/LFR/20200824172139.jpg</banner>
       <area_id>JP13</area_id>
       <href>http://www.1242.com/</href>
     </station>
@@ -379,9 +438,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/INT/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/INT/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/INT/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/INT/20151001094947.png</banner>
       <area_id>JP13</area_id>
-      <href>http://www.interfm.co.jp/</href>
+      <href>https://www.interfm.co.jp/</href>
     </station>
     <station>
       <id>FMT</id>
@@ -398,9 +458,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMT/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMT/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMT/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/FMT/20161013150235.png</banner>
+      <tf_max_delay>150</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/FMT/20200501093513.jpg</banner>
       <area_id>JP13</area_id>
-      <href>http://www.tfm.co.jp/</href>
+      <href>https://www.tfm.co.jp/</href>
     </station>
     <station>
       <id>FMJ</id>
@@ -417,9 +478,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMJ/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMJ/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMJ/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FMJ/20150403151103.jpg</banner>
       <area_id>JP13</area_id>
-      <href>http://www.j-wave.co.jp/</href>
+      <href>https://www.j-wave.co.jp/</href>
     </station>
     <station>
       <id>JORF</id>
@@ -436,6 +498,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JORF/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JORF/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JORF/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/JORF/20181031231236.jpg</banner>
       <area_id>JP13</area_id>
       <href>http://www.jorf.co.jp/</href>
@@ -455,7 +518,8 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/BAYFM78/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/BAYFM78/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/BAYFM78/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/BAYFM78/20170824133459.jpg</banner>
+      <tf_max_delay>90</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/BAYFM78/20191231175320.jpg</banner>
       <area_id>JP12</area_id>
       <href>http://www.bayfm.co.jp/</href>
     </station>
@@ -474,9 +538,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/NACK5/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/NACK5/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/NACK5/lrtrim/688x160.png</logo>
+      <tf_max_delay>150</tf_max_delay>
       <banner>http://radiko.jp/res/banner/NACK5/20160929170327.jpg</banner>
       <area_id>JP11</area_id>
-      <href>http://www.nack5.co.jp</href>
+      <href>https://www.nack5.co.jp/</href>
     </station>
     <station>
       <id>YFM</id>
@@ -493,9 +558,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/YFM/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/YFM/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/YFM/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/YFM/20110922163525.png</banner>
+      <tf_max_delay>90</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/YFM/20200123134554.jpg</banner>
       <area_id>JP14</area_id>
-      <href>http://www.fmyokohama.co.jp/</href>
+      <href>https://www.fmyokohama.co.jp/</href>
     </station>
     <station>
       <id>IBS</id>
@@ -512,9 +578,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/IBS/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/IBS/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/IBS/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/IBS/20160127183558.png</banner>
       <area_id>JP8</area_id>
-      <href>http://www.ibs-radio.com</href>
+      <href>https://www.ibs-radio.com/</href>
     </station>
     <station>
       <id>CRT</id>
@@ -531,6 +598,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/CRT/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/CRT/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/CRT/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/CRT/20161012200917.png</banner>
       <area_id>JP9</area_id>
       <href>http://www.crt-radio.co.jp/</href>
@@ -550,6 +618,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RADIOBERRY/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RADIOBERRY/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RADIOBERRY/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/RADIOBERRY/20110922162932.png</banner>
       <area_id>JP9</area_id>
       <href>http://www.berry.co.jp/</href>
@@ -569,9 +638,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMGUNMA/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMGUNMA/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMGUNMA/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FMGUNMA/20170413110757.png</banner>
       <area_id>JP10</area_id>
-      <href>http://www.fmgunma.com/</href>
+      <href>https://www.fmgunma.com</href>
     </station>
     <station>
       <id>JOAK</id>
@@ -588,9 +658,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOAK/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOAK/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOAK/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/JOAK/20170922183839.png</banner>
       <area_id>JP13</area_id>
-      <href>http://www.nhk.or.jp/radio/</href>
+      <href>https://www.nhk.or.jp/radio/</href>
     </station>
   </stations>
   <stations ascii_name="HOKURIKU KOUSHINETSU" region_id="hokuriku-koushinetsu" region_name="北陸・甲信越">
@@ -609,9 +680,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/BSN/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/BSN/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/BSN/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/BSN/20140107150636.jpg</banner>
       <area_id>JP15</area_id>
-      <href>http://www.ohbsn.com/radio/</href>
+      <href>https://www.ohbsn.com/radio/</href>
     </station>
     <station>
       <id>FMNIIGATA</id>
@@ -628,28 +700,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMNIIGATA/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMNIIGATA/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMNIIGATA/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FMNIIGATA/20181016121920.jpg</banner>
       <area_id>JP15</area_id>
-      <href>http://www.fmniigata.com/</href>
-    </station>
-    <station>
-      <id>FMPORT</id>
-      <name>FM PORT</name>
-      <ascii_name>FM PORT</ascii_name>
-      <ruby>えふえむぽーと</ruby>
-      <areafree>1</areafree>
-      <timefree>1</timefree>
-      <logo width="224" height="100" align="center">http://radiko.jp/v2/static/station/logo/FMPORT/224x100.png</logo>
-      <logo width="258" height="60" align="center">http://radiko.jp/v2/static/station/logo/FMPORT/258x60.png</logo>
-      <logo width="448" height="200" align="center">http://radiko.jp/v2/static/station/logo/FMPORT/448x200.png</logo>
-      <logo width="688" height="160" align="center">http://radiko.jp/v2/static/station/logo/FMPORT/688x160.png</logo>
-      <logo width="224" height="100" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMPORT/lrtrim/224x100.png</logo>
-      <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMPORT/lrtrim/258x60.png</logo>
-      <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMPORT/lrtrim/448x200.png</logo>
-      <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMPORT/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/FMPORT/20120323181204.png</banner>
-      <area_id>JP15</area_id>
-      <href>http://www.fmport.com/</href>
+      <href>https://www.fmniigata.com/</href>
     </station>
     <station>
       <id>KNB</id>
@@ -666,9 +720,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/KNB/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/KNB/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/KNB/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/KNB/20190402154841.jpg</banner>
       <area_id>JP16</area_id>
-      <href>http://www.knb.ne.jp/radio/</href>
+      <href>https://www.knb.ne.jp/radio/</href>
     </station>
     <station>
       <id>FMTOYAMA</id>
@@ -685,6 +740,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMTOYAMA/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMTOYAMA/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMTOYAMA/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FMTOYAMA/20190129155355.JPG</banner>
       <area_id>JP16</area_id>
       <href>http://www.fmtoyama.co.jp/</href>
@@ -704,9 +760,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/MRO/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/MRO/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/MRO/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/MRO/20160909100655.jpg</banner>
       <area_id>JP17</area_id>
-      <href>http://www.mro.co.jp/radio/</href>
+      <href>https://www.mro.co.jp/radio/</href>
     </station>
     <station>
       <id>HELLOFIVE</id>
@@ -723,7 +780,8 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/HELLOFIVE/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/HELLOFIVE/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/HELLOFIVE/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/HELLOFIVE/20111003111054.png</banner>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/HELLOFIVE/20200130163346.png</banner>
       <area_id>JP17</area_id>
       <href>http://hellofive.jp/index.html</href>
     </station>
@@ -742,6 +800,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FBC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FBC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FBC/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FBC/20140526092725.png</banner>
       <area_id>JP18</area_id>
       <href>http://www2.fbc.jp/radio/</href>
@@ -761,9 +820,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMFUKUI/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMFUKUI/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMFUKUI/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FMFUKUI/20180416154531.png</banner>
       <area_id>JP18</area_id>
-      <href>http://www.fmfukui.jp/</href>
+      <href>https://www.fmfukui.jp</href>
     </station>
     <station>
       <id>YBS</id>
@@ -780,9 +840,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/YBS/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/YBS/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/YBS/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/YBS/20171005130706.png</banner>
       <area_id>JP19</area_id>
-      <href>http://www.ybs.jp/</href>
+      <href>https://www.ybs.jp/</href>
     </station>
     <station>
       <id>FM-FUJI</id>
@@ -799,6 +860,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM-FUJI/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM-FUJI/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM-FUJI/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FM-FUJI/20180328151203.jpg</banner>
       <area_id>JP19</area_id>
       <href>http://www.fmfuji.jp/</href>
@@ -818,9 +880,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/SBC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/SBC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/SBC/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/SBC/20161124154740.jpg</banner>
       <area_id>JP20</area_id>
-      <href>http://sbc21.co.jp/blogwp/radio/</href>
+      <href>https://sbc21.co.jp/blogwp/radio/</href>
     </station>
     <station>
       <id>FMN</id>
@@ -837,6 +900,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMN/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMN/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMN/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FMN/20190401130254.jpg</banner>
       <area_id>JP20</area_id>
       <href>http://www.fmnagano.co.jp/</href>
@@ -858,9 +922,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/CBC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/CBC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/CBC/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/CBC/20190627185608.jpg</banner>
+      <tf_max_delay>90</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/CBC/20190627184952.jpg</banner>
       <area_id>JP23</area_id>
-      <href>http://hicbc.com/radio/</href>
+      <href>https://hicbc.com/radio/</href>
     </station>
     <station>
       <id>TOKAIRADIO</id>
@@ -877,9 +942,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/TOKAIRADIO/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/TOKAIRADIO/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/TOKAIRADIO/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/TOKAIRADIO/20190221172033.jpg</banner>
+      <tf_max_delay>105</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/TOKAIRADIO/20191226184057.jpg</banner>
       <area_id>JP23</area_id>
-      <href>http://tokairadio.co.jp/</href>
+      <href>https://www.tokairadio.co.jp/</href>
     </station>
     <station>
       <id>GBS</id>
@@ -896,7 +962,8 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/GBS/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/GBS/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/GBS/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/GBS/20180220102452.jpg</banner>
+      <tf_max_delay>90</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/GBS/20200526170847.jpg</banner>
       <area_id>JP21</area_id>
       <href>http://www.zf-web.com/</href>
     </station>
@@ -915,34 +982,16 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/ZIP-FM/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/ZIP-FM/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/ZIP-FM/lrtrim/688x160.png</logo>
+      <tf_max_delay>105</tf_max_delay>
       <banner>http://radiko.jp/res/banner/ZIP-FM/20161011172934.png</banner>
       <area_id>JP23</area_id>
-      <href>http://zip-fm.co.jp/ </href>
-    </station>
-    <station>
-      <id>RADIONEO</id>
-      <name>RADIO NEO</name>
-      <ascii_name>RADIO NEO</ascii_name>
-      <ruby>らじおねお</ruby>
-      <areafree>1</areafree>
-      <timefree>1</timefree>
-      <logo width="224" height="100" align="center">http://radiko.jp/v2/static/station/logo/RADIONEO/224x100.png</logo>
-      <logo width="258" height="60" align="center">http://radiko.jp/v2/static/station/logo/RADIONEO/258x60.png</logo>
-      <logo width="448" height="200" align="center">http://radiko.jp/v2/static/station/logo/RADIONEO/448x200.png</logo>
-      <logo width="688" height="160" align="center">http://radiko.jp/v2/static/station/logo/RADIONEO/688x160.png</logo>
-      <logo width="224" height="100" align="lrtrim">http://radiko.jp/v2/static/station/logo/RADIONEO/lrtrim/224x100.png</logo>
-      <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RADIONEO/lrtrim/258x60.png</logo>
-      <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RADIONEO/lrtrim/448x200.png</logo>
-      <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RADIONEO/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/RADIONEO/20151001102119.jpg</banner>
-      <area_id>JP23</area_id>
-      <href>http://radio-neo.com/</href>
+      <href>https://zip-fm.co.jp/</href>
     </station>
     <station>
       <id>FMAICHI</id>
-      <name>＠ＦＭ</name>
+      <name>FM AICHI</name>
       <ascii_name>ATFM</ascii_name>
-      <ruby>あっとえふえむ</ruby>
+      <ruby>えふえむあいち</ruby>
       <areafree>1</areafree>
       <timefree>1</timefree>
       <logo width="224" height="100" align="center">http://radiko.jp/v2/static/station/logo/FMAICHI/224x100.png</logo>
@@ -953,9 +1002,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMAICHI/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMAICHI/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMAICHI/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/FMAICHI/20180402172648.png</banner>
+      <tf_max_delay>105</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/FMAICHI/20200107190742.png</banner>
       <area_id>JP23</area_id>
-      <href>http://fma.co.jp</href>
+      <href>https://fma.co.jp/</href>
     </station>
     <station>
       <id>FMGIFU</id>
@@ -972,6 +1022,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMGIFU/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMGIFU/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMGIFU/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FMGIFU/20160310171416.png</banner>
       <area_id>JP21</area_id>
       <href>http://www.fmgifu.com/</href>
@@ -991,9 +1042,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/SBS/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/SBS/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/SBS/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/SBS/20171201212827.jpg</banner>
       <area_id>JP22</area_id>
-      <href>http://www.at-s.com/sbsradio/</href>
+      <href>https://www.at-s.com/sbsradio/</href>
     </station>
     <station>
       <id>K-MIX</id>
@@ -1010,9 +1062,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/K-MIX/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/K-MIX/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/K-MIX/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/K-MIX/20190331170224.jpg</banner>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/K-MIX/20200520175623.jpg</banner>
       <area_id>JP22</area_id>
-      <href>http://www.k-mix.co.jp/</href>
+      <href>https://www.k-mix.co.jp/</href>
     </station>
     <station>
       <id>FMMIE</id>
@@ -1029,6 +1082,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMMIE/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMMIE/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMMIE/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FMMIE/20161103035701.jpg</banner>
       <area_id>JP24</area_id>
       <href>http://www.fmmie.jp/</href>
@@ -1048,9 +1102,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOCK/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOCK/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOCK/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/JOCK/20180412101913.png</banner>
       <area_id>JP23</area_id>
-      <href>http://www.nhk.or.jp/radio/</href>
+      <href>https://www.nhk.or.jp/radio/</href>
     </station>
   </stations>
   <stations ascii_name="KINKI" region_id="kinki" region_name="近畿">
@@ -1069,9 +1124,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/ABC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/ABC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/ABC/lrtrim/688x160.png</logo>
+      <tf_max_delay>150</tf_max_delay>
       <banner>http://radiko.jp/res/banner/ABC/20180330174124.jpg</banner>
       <area_id>JP27</area_id>
-      <href>http://abc1008.com/</href>
+      <href>https://www.abc1008.com/</href>
     </station>
     <station>
       <id>MBS</id>
@@ -1088,9 +1144,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/MBS/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/MBS/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/MBS/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/MBS/20160525195116.png</banner>
+      <tf_max_delay>105</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/MBS/20191001183556.png</banner>
       <area_id>JP27</area_id>
-      <href>http://www.mbs1179.com/</href>
+      <href>https://www.mbs1179.com/</href>
     </station>
     <station>
       <id>OBC</id>
@@ -1107,6 +1164,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/OBC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/OBC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/OBC/lrtrim/688x160.png</logo>
+      <tf_max_delay>105</tf_max_delay>
       <banner>http://radiko.jp/res/banner/OBC/20190117104010.jpg</banner>
       <area_id>JP27</area_id>
       <href>http://www.obc1314.co.jp/</href>
@@ -1126,6 +1184,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/CCL/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/CCL/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/CCL/lrtrim/688x160.png</logo>
+      <tf_max_delay>150</tf_max_delay>
       <banner>http://radiko.jp/res/banner/CCL/20161014144826.png</banner>
       <area_id>JP27</area_id>
       <href>https://cocolo.jp</href>
@@ -1145,14 +1204,15 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/802/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/802/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/802/lrtrim/688x160.png</logo>
+      <tf_max_delay>150</tf_max_delay>
       <banner>http://radiko.jp/res/banner/802/20161014144737.png</banner>
       <area_id>JP27</area_id>
       <href>https://funky802.com/</href>
     </station>
     <station>
       <id>FMO</id>
-      <name>FM OH!</name>
-      <ascii_name>FM OH</ascii_name>
+      <name>FM大阪</name>
+      <ascii_name>FMO</ascii_name>
       <ruby>えふえむおおさか</ruby>
       <areafree>1</areafree>
       <timefree>1</timefree>
@@ -1164,7 +1224,8 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMO/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMO/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMO/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/FMO/20170401183010.png</banner>
+      <tf_max_delay>150</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/FMO/20200528173851.png</banner>
       <area_id>JP27</area_id>
       <href>http://fmosaka.net/</href>
     </station>
@@ -1183,9 +1244,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/KISSFMKOBE/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/KISSFMKOBE/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/KISSFMKOBE/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/KISSFMKOBE/20110930121528.png</banner>
       <area_id>JP28</area_id>
-      <href>http://www.kiss-fm.co.jp/</href>
+      <href>https://www.kiss-fm.co.jp/</href>
     </station>
     <station>
       <id>CRK</id>
@@ -1202,9 +1264,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/CRK/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/CRK/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/CRK/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/CRK/20160405140655.jpg</banner>
       <area_id>JP28</area_id>
-      <href>http://jocr.jp　</href>
+      <href>https://jocr.jp/</href>
     </station>
     <station>
       <id>E-RADIO</id>
@@ -1221,13 +1284,14 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/E-RADIO/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/E-RADIO/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/E-RADIO/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/E-RADIO/20171207140826.jpg</banner>
       <area_id>JP25</area_id>
-      <href>http://www.e-radio.co.jp/</href>
+      <href>https://www.e-radio.co.jp/</href>
     </station>
     <station>
       <id>KBS</id>
-      <name>KBS京都ラジオ </name>
+      <name>KBS京都ラジオ</name>
       <ascii_name>KBS-KYOTO RADIO</ascii_name>
       <ruby>けーびーえすきょうとらじお</ruby>
       <areafree>1</areafree>
@@ -1240,9 +1304,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/KBS/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/KBS/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/KBS/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/KBS/20120228180921.png</banner>
       <area_id>JP26</area_id>
-      <href>http://www.kbs-kyoto.co.jp</href>
+      <href>https://www.kbs-kyoto.co.jp/</href>
     </station>
     <station>
       <id>ALPHA-STATION</id>
@@ -1259,6 +1324,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/ALPHA-STATION/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/ALPHA-STATION/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/ALPHA-STATION/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/ALPHA-STATION/20110929130156.png</banner>
       <area_id>JP26</area_id>
       <href>http://fm-kyoto.jp/</href>
@@ -1278,9 +1344,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/WBS/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/WBS/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/WBS/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/WBS/20110930145435.png</banner>
       <area_id>JP30</area_id>
-      <href>http://wbs.co.jp/</href>
+      <href>https://www.wbs.co.jp/</href>
     </station>
     <station>
       <id>JOBK</id>
@@ -1297,9 +1364,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOBK/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOBK/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOBK/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/JOBK/20180412101432.png</banner>
       <area_id>JP27</area_id>
-      <href>http://www.nhk.or.jp/radio/</href>
+      <href>https://www.nhk.or.jp/radio/</href>
     </station>
   </stations>
   <stations ascii_name="CHUGOKU SHIKOKU" region_id="chugoku-shikoku" region_name="中国・四国">
@@ -1318,9 +1386,30 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/BSS/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/BSS/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/BSS/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/BSS/20190701164825.jpg</banner>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/BSS/20200416114216.jpg</banner>
       <area_id>JP31</area_id>
-      <href>http://bss.jp/radio/</href>
+      <href>https://www.bss.jp/radio/</href>
+    </station>
+    <station>
+      <id>FM-SANIN</id>
+      <name>エフエム山陰</name>
+      <ascii_name>FMSANIN</ascii_name>
+      <ruby>えふえむさんいん</ruby>
+      <areafree>1</areafree>
+      <timefree>1</timefree>
+      <logo width="224" height="100" align="center">http://radiko.jp/v2/static/station/logo/FM-SANIN/224x100.png</logo>
+      <logo width="258" height="60" align="center">http://radiko.jp/v2/static/station/logo/FM-SANIN/258x60.png</logo>
+      <logo width="448" height="200" align="center">http://radiko.jp/v2/static/station/logo/FM-SANIN/448x200.png</logo>
+      <logo width="688" height="160" align="center">http://radiko.jp/v2/static/station/logo/FM-SANIN/688x160.png</logo>
+      <logo width="224" height="100" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM-SANIN/lrtrim/224x100.png</logo>
+      <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM-SANIN/lrtrim/258x60.png</logo>
+      <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM-SANIN/lrtrim/448x200.png</logo>
+      <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM-SANIN/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/FM-SANIN/20200406113750.png</banner>
+      <area_id>JP32</area_id>
+      <href>http://www.fm-sanin.co.jp/</href>
     </station>
     <station>
       <id>RSK</id>
@@ -1337,9 +1426,30 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RSK/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RSK/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RSK/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/RSK/20141120134411.png</banner>
       <area_id>JP33</area_id>
       <href>http://www.rsk.co.jp/</href>
+    </station>
+    <station>
+      <id>FM-OKAYAMA</id>
+      <name>ＦＭ岡山</name>
+      <ascii_name>FM-OKAYAMA</ascii_name>
+      <ruby>えふえむおかやま</ruby>
+      <areafree>1</areafree>
+      <timefree>1</timefree>
+      <logo width="224" height="100" align="center">http://radiko.jp/v2/static/station/logo/FM-OKAYAMA/224x100.png</logo>
+      <logo width="258" height="60" align="center">http://radiko.jp/v2/static/station/logo/FM-OKAYAMA/258x60.png</logo>
+      <logo width="448" height="200" align="center">http://radiko.jp/v2/static/station/logo/FM-OKAYAMA/448x200.png</logo>
+      <logo width="688" height="160" align="center">http://radiko.jp/v2/static/station/logo/FM-OKAYAMA/688x160.png</logo>
+      <logo width="224" height="100" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM-OKAYAMA/lrtrim/224x100.png</logo>
+      <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM-OKAYAMA/lrtrim/258x60.png</logo>
+      <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM-OKAYAMA/lrtrim/448x200.png</logo>
+      <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM-OKAYAMA/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/FM-OKAYAMA/20200331123058.png</banner>
+      <area_id>JP33</area_id>
+      <href>http://www.fm-okayama.co.jp/</href>
     </station>
     <station>
       <id>RCC</id>
@@ -1356,9 +1466,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RCC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RCC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RCC/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/RCC/20160331103933.png</banner>
       <area_id>JP34</area_id>
-      <href>http://www.1350.jp/</href>
+      <href>https://radio.rcc.jp/</href>
     </station>
     <station>
       <id>HFM</id>
@@ -1375,6 +1486,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/HFM/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/HFM/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/HFM/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/HFM/20110922161300.png</banner>
       <area_id>JP34</area_id>
       <href>http://www.hiroshima-fm.co.jp/</href>
@@ -1394,6 +1506,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/KRY/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/KRY/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/KRY/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/KRY/20190327184458.jpg</banner>
       <area_id>JP35</area_id>
       <href>http://kry.co.jp/</href>
@@ -1413,6 +1526,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMY/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMY/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMY/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FMY/20180312123722.png</banner>
       <area_id>JP35</area_id>
       <href>http://www.fmy.co.jp/</href>
@@ -1432,9 +1546,30 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JRT/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JRT/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JRT/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/JRT/20150317183505.png</banner>
       <area_id>JP36</area_id>
       <href>http://www.jrt.co.jp/</href>
+    </station>
+    <station>
+      <id>FM807</id>
+      <name>FM徳島</name>
+      <ascii_name>FM807</ascii_name>
+      <ruby>えふえむとくしま</ruby>
+      <areafree>1</areafree>
+      <timefree>1</timefree>
+      <logo width="224" height="100" align="center">http://radiko.jp/v2/static/station/logo/FM807/224x100.png</logo>
+      <logo width="258" height="60" align="center">http://radiko.jp/v2/static/station/logo/FM807/258x60.png</logo>
+      <logo width="448" height="200" align="center">http://radiko.jp/v2/static/station/logo/FM807/448x200.png</logo>
+      <logo width="688" height="160" align="center">http://radiko.jp/v2/static/station/logo/FM807/688x160.png</logo>
+      <logo width="224" height="100" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM807/lrtrim/224x100.png</logo>
+      <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM807/lrtrim/258x60.png</logo>
+      <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM807/lrtrim/448x200.png</logo>
+      <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM807/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/FM807/20200813143140.jpg</banner>
+      <area_id>JP36</area_id>
+      <href>http://www.fm807.jp/</href>
     </station>
     <station>
       <id>RNC</id>
@@ -1451,6 +1586,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RNC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RNC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RNC/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/RNC/20170817125020.png</banner>
       <area_id>JP37</area_id>
       <href>http://www.rnc.co.jp/</href>
@@ -1470,9 +1606,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMKAGAWA/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMKAGAWA/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMKAGAWA/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FMKAGAWA/20180112184018.png</banner>
       <area_id>JP37</area_id>
-      <href>http://www.fmkagawa.co.jp/pc/index.html</href>
+      <href>https://www.fmkagawa.co.jp/</href>
     </station>
     <station>
       <id>RNB</id>
@@ -1489,9 +1626,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RNB/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RNB/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RNB/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/RNB/20170418144016.jpg</banner>
       <area_id>JP38</area_id>
-      <href>http://www.rnb.co.jp/</href>
+      <href>https://www.rnb.co.jp/</href>
     </station>
     <station>
       <id>JOEU-FM</id>
@@ -1508,9 +1646,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOEU-FM/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOEU-FM/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOEU-FM/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/JOEU-FM/20170327223217.png</banner>
       <area_id>JP38</area_id>
-      <href>http://www.joeufm.co.jp/</href>
+      <href>https://www.joeufm.co.jp/</href>
     </station>
     <station>
       <id>RKC</id>
@@ -1527,9 +1666,30 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RKC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RKC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RKC/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/RKC/20150326103442.png</banner>
       <area_id>JP39</area_id>
       <href>http://www.rkc-kochi.co.jp/</href>
+    </station>
+    <station>
+      <id>HI-SIX</id>
+      <name>エフエム高知</name>
+      <ascii_name>Hi-Six</ascii_name>
+      <ruby>えふえむこうち</ruby>
+      <areafree>1</areafree>
+      <timefree>1</timefree>
+      <logo width="224" height="100" align="center">http://radiko.jp/v2/static/station/logo/HI-SIX/224x100.png</logo>
+      <logo width="258" height="60" align="center">http://radiko.jp/v2/static/station/logo/HI-SIX/258x60.png</logo>
+      <logo width="448" height="200" align="center">http://radiko.jp/v2/static/station/logo/HI-SIX/448x200.png</logo>
+      <logo width="688" height="160" align="center">http://radiko.jp/v2/static/station/logo/HI-SIX/688x160.png</logo>
+      <logo width="224" height="100" align="lrtrim">http://radiko.jp/v2/static/station/logo/HI-SIX/lrtrim/224x100.png</logo>
+      <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/HI-SIX/lrtrim/258x60.png</logo>
+      <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/HI-SIX/lrtrim/448x200.png</logo>
+      <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/HI-SIX/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/HI-SIX/20200228150708.png</banner>
+      <area_id>JP39</area_id>
+      <href>http://www.fmkochi.com/</href>
     </station>
     <station>
       <id>JOFK</id>
@@ -1546,9 +1706,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOFK/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOFK/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOFK/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/JOFK/20170922183935.png</banner>
       <area_id>JP34</area_id>
-      <href>http://www.nhk.or.jp/radio/</href>
+      <href>https://www.nhk.or.jp/radio/</href>
     </station>
     <station>
       <id>JOZK</id>
@@ -1565,9 +1726,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOZK/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOZK/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOZK/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/JOZK/20170922183956.png</banner>
       <area_id>JP38</area_id>
-      <href>http://www.nhk.or.jp/radio/</href>
+      <href>https://www.nhk.or.jp/radio/</href>
     </station>
   </stations>
   <stations ascii_name="KYUSHU" region_id="kyushu" region_name="九州・沖縄">
@@ -1586,9 +1748,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RKB/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RKB/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RKB/lrtrim/688x160.png</logo>
+      <tf_max_delay>150</tf_max_delay>
       <banner>http://radiko.jp/res/banner/RKB/20170817143046.jpg</banner>
       <area_id>JP40</area_id>
-      <href>http://rkbr.jp/</href>
+      <href>https://rkbr.jp/</href>
     </station>
     <station>
       <id>KBC</id>
@@ -1605,9 +1768,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/KBC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/KBC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/KBC/lrtrim/688x160.png</logo>
+      <tf_max_delay>150</tf_max_delay>
       <banner>http://radiko.jp/res/banner/KBC/20170314142116.jpg</banner>
       <area_id>JP40</area_id>
-      <href>http://www.kbc.co.jp/radio/</href>
+      <href>https://kbc.co.jp/radio/</href>
     </station>
     <station>
       <id>LOVEFM</id>
@@ -1624,9 +1788,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/LOVEFM/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/LOVEFM/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/LOVEFM/lrtrim/688x160.png</logo>
+      <tf_max_delay>105</tf_max_delay>
       <banner>http://radiko.jp/res/banner/LOVEFM/20140715154132.jpg</banner>
       <area_id>JP40</area_id>
-      <href>http://www.lovefm.co.jp/</href>
+      <href>https://www.lovefm.co.jp/</href>
     </station>
     <station>
       <id>CROSSFM</id>
@@ -1643,13 +1808,14 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/CROSSFM/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/CROSSFM/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/CROSSFM/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/CROSSFM/20180926163513.jpg</banner>
+      <tf_max_delay>150</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/CROSSFM/20200806163503.jpg</banner>
       <area_id>JP40</area_id>
       <href>http://www.crossfm.co.jp/</href>
     </station>
     <station>
       <id>FMFUKUOKA</id>
-      <name>FM FUKUOKA </name>
+      <name>FM FUKUOKA</name>
       <ascii_name>FM FUKUOKA</ascii_name>
       <ruby>えふえむふくおか</ruby>
       <areafree>1</areafree>
@@ -1662,9 +1828,30 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMFUKUOKA/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMFUKUOKA/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMFUKUOKA/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/FMFUKUOKA/20181113122358.jpg</banner>
+      <tf_max_delay>150</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/FMFUKUOKA/20200130164615.jpg</banner>
       <area_id>JP40</area_id>
-      <href>http://fmfukuoka.jp/</href>
+      <href>https://fmfukuoka.co.jp</href>
+    </station>
+    <station>
+      <id>FMS</id>
+      <name>エフエム佐賀</name>
+      <ascii_name>FMSAGA</ascii_name>
+      <ruby>えふえむさが</ruby>
+      <areafree>1</areafree>
+      <timefree>1</timefree>
+      <logo width="224" height="100" align="center">http://radiko.jp/v2/static/station/logo/FMS/224x100.png</logo>
+      <logo width="258" height="60" align="center">http://radiko.jp/v2/static/station/logo/FMS/258x60.png</logo>
+      <logo width="448" height="200" align="center">http://radiko.jp/v2/static/station/logo/FMS/448x200.png</logo>
+      <logo width="688" height="160" align="center">http://radiko.jp/v2/static/station/logo/FMS/688x160.png</logo>
+      <logo width="224" height="100" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMS/lrtrim/224x100.png</logo>
+      <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMS/lrtrim/258x60.png</logo>
+      <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMS/lrtrim/448x200.png</logo>
+      <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMS/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/FMS/20200408162952.png</banner>
+      <area_id>JP41</area_id>
+      <href>http://www.fmsaga.co.jp/</href>
     </station>
     <station>
       <id>NBC</id>
@@ -1681,9 +1868,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/NBC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/NBC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/NBC/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/NBC/20180409155945.jpg</banner>
       <area_id>JP42</area_id>
-      <href>http://www.nbc-nagasaki.co.jp/radio/</href>
+      <href>https://www.nbc-nagasaki.co.jp/radio/</href>
     </station>
     <station>
       <id>FMNAGASAKI</id>
@@ -1700,6 +1888,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMNAGASAKI/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMNAGASAKI/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMNAGASAKI/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FMNAGASAKI/20150402112420.png</banner>
       <area_id>JP42</area_id>
       <href>http://www.fmnagasaki.co.jp/</href>
@@ -1719,6 +1908,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RKK/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RKK/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RKK/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/RKK/20170601093652.jpg</banner>
       <area_id>JP43</area_id>
       <href>http://rkk.jp/radio/</href>
@@ -1738,9 +1928,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMK/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMK/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FMK/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/FMK/20160329105734.png</banner>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/FMK/20191226113323.jpg</banner>
       <area_id>JP43</area_id>
-      <href>http://www.fmk.fm/</href>
+      <href>https://fmk.fm/</href>
     </station>
     <station>
       <id>OBS</id>
@@ -1757,9 +1948,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/OBS/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/OBS/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/OBS/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/OBS/20120326111515.png</banner>
       <area_id>JP44</area_id>
-      <href>http://www.e-obs.com/radio/</href>
+      <href>https://1098.am/</href>
     </station>
     <station>
       <id>FM_OITA</id>
@@ -1776,6 +1968,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM_OITA/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM_OITA/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM_OITA/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FM_OITA/20120326113616.png</banner>
       <area_id>JP44</area_id>
       <href>http://www.fmoita.co.jp</href>
@@ -1795,9 +1988,30 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/MRT/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/MRT/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/MRT/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/MRT/20140701084821.png</banner>
       <area_id>JP45</area_id>
       <href>http://mrt.jp/radio/</href>
+    </station>
+    <station>
+      <id>JOYFM</id>
+      <name>エフエム宮崎</name>
+      <ascii_name>FMMIYAZAKI</ascii_name>
+      <ruby>えふえむみやざき</ruby>
+      <areafree>1</areafree>
+      <timefree>1</timefree>
+      <logo width="224" height="100" align="center">http://radiko.jp/v2/static/station/logo/JOYFM/224x100.png</logo>
+      <logo width="258" height="60" align="center">http://radiko.jp/v2/static/station/logo/JOYFM/258x60.png</logo>
+      <logo width="448" height="200" align="center">http://radiko.jp/v2/static/station/logo/JOYFM/448x200.png</logo>
+      <logo width="688" height="160" align="center">http://radiko.jp/v2/static/station/logo/JOYFM/688x160.png</logo>
+      <logo width="224" height="100" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOYFM/lrtrim/224x100.png</logo>
+      <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOYFM/lrtrim/258x60.png</logo>
+      <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOYFM/lrtrim/448x200.png</logo>
+      <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOYFM/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/JOYFM/20200326190840.png</banner>
+      <area_id>JP45</area_id>
+      <href>http://www.joyfm.co.jp/</href>
     </station>
     <station>
       <id>MBC</id>
@@ -1814,9 +2028,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/MBC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/MBC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/MBC/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/MBC/20181221101425.png</banner>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/MBC/20190926143408.jpg</banner>
       <area_id>JP46</area_id>
-      <href>http://www.mbc.co.jp/radio/</href>
+      <href>https://www.mbc.co.jp/radio/</href>
     </station>
     <station>
       <id>MYUFM</id>
@@ -1833,6 +2048,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/MYUFM/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/MYUFM/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/MYUFM/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/MYUFM/20170418123313.png</banner>
       <area_id>JP46</area_id>
       <href>http://www.myufm.jp/myufmjp/myufm/</href>
@@ -1852,9 +2068,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RBC/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RBC/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RBC/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/RBC/20181130111445.jpg</banner>
       <area_id>JP47</area_id>
-      <href>http://www.rbc.co.jp/rbciradiotop2.php</href>
+      <href>https://www.rbc.co.jp/</href>
     </station>
     <station>
       <id>ROK</id>
@@ -1871,7 +2088,8 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/ROK/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/ROK/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/ROK/lrtrim/688x160.png</logo>
-      <banner>http://radiko.jp/res/banner/ROK/20171215174501.png</banner>
+      <tf_max_delay>60</tf_max_delay>
+      <banner>http://radiko.jp/res/banner/ROK/20200330094947.png</banner>
       <area_id>JP47</area_id>
       <href>http://www.rokinawa.co.jp/</href>
     </station>
@@ -1890,9 +2108,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM_OKINAWA/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM_OKINAWA/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/FM_OKINAWA/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/FM_OKINAWA/20170913105637.png</banner>
       <area_id>JP47</area_id>
-      <href>http://www.fmokinawa.co.jp/</href>
+      <href>https://www.fmokinawa.co.jp/</href>
     </station>
     <station>
       <id>JOLK</id>
@@ -1909,15 +2128,16 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOLK/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOLK/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOLK/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/JOLK/20170922184021.png</banner>
       <area_id>JP40</area_id>
-      <href>http://www.nhk.or.jp/radio/</href>
+      <href>https://www.nhk.or.jp/radio/</href>
     </station>
   </stations>
   <stations ascii_name="ZENKOKU" region_id="zenkoku" region_name="全国">
     <station>
       <id>RN1</id>
-      <name>ラジオNIKKEI第1 </name>
+      <name>ラジオNIKKEI第1</name>
       <ascii_name>RADIONIKKEI</ascii_name>
       <ruby>らじおにっけいだいいち</ruby>
       <areafree>1</areafree>
@@ -1930,6 +2150,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RN1/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RN1/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RN1/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/RN1/20120802154152.png</banner>
       <area_id>JP13</area_id>
       <href>http://www.radionikkei.jp/</href>
@@ -1949,6 +2170,7 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/RN2/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/RN2/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/RN2/lrtrim/688x160.png</logo>
+      <tf_max_delay>90</tf_max_delay>
       <banner>http://radiko.jp/res/banner/RN2/20190423111331.png</banner>
       <area_id>JP13</area_id>
       <href>http://www.radionikkei.jp/ </href>
@@ -1968,9 +2190,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/HOUSOU-DAIGAKU/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/HOUSOU-DAIGAKU/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/HOUSOU-DAIGAKU/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/HOUSOU-DAIGAKU/20150805145127.png</banner>
       <area_id>JP12</area_id>
-      <href>http://www.ouj.ac.jp/</href>
+      <href>https://www.ouj.ac.jp/</href>
     </station>
     <station>
       <id>JOAB</id>
@@ -1987,9 +2210,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOAB/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOAB/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOAB/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/JOAB/20170922184047.png</banner>
       <area_id>JP13</area_id>
-      <href>http://www.nhk.or.jp/radio/</href>
+      <href>https://www.nhk.or.jp/radio/</href>
     </station>
     <station>
       <id>JOAK-FM</id>
@@ -2006,9 +2230,10 @@
       <logo width="258" height="60" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOAK-FM/lrtrim/258x60.png</logo>
       <logo width="448" height="200" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOAK-FM/lrtrim/448x200.png</logo>
       <logo width="688" height="160" align="lrtrim">http://radiko.jp/v2/static/station/logo/JOAK-FM/lrtrim/688x160.png</logo>
+      <tf_max_delay>60</tf_max_delay>
       <banner>http://radiko.jp/res/banner/JOAK-FM/20170922184116.png</banner>
       <area_id>JP13</area_id>
-      <href>http://www.nhk.or.jp/radio/</href>
+      <href>https://www.nhk.or.jp/radio/</href>
     </station>
   </stations>
 </region>
