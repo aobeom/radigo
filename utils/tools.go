@@ -1,26 +1,24 @@
 package utils
 
 import (
-	"io/ioutil"
-	"log"
-	"os"
-	"path/filepath"
+	"github.com/aobeom/minitools"
 )
 
-// LocalPath 设置目录
-func LocalPath(path string) (newPath string) {
-	workDir, err := os.Getwd()
-	if err != nil {
-		log.Fatal(err)
-	}
-	return filepath.Join(workDir, path)
-}
+// AESSuite 初始化
+var AESSuite *minitools.AESSuiteBasic
 
-// ReadFile 打开文件
-func ReadFile(f string) string {
-	data, err := ioutil.ReadFile(f)
-	if err != nil {
-		log.Fatal(err)
-	}
-	return string(data)
+// DataSuite 初始化
+var DataSuite *minitools.DataSuiteBasic
+
+// FileSuite 初始化
+var FileSuite *minitools.FileSuiteBasic
+
+// TimeSuite 初始化
+var TimeSuite *minitools.TimeSuiteBasic
+
+func init() {
+	AESSuite = minitools.AESSuite()
+	DataSuite = minitools.DataSuite()
+	FileSuite = minitools.FileSuite()
+	TimeSuite = minitools.TimeSuite()
 }

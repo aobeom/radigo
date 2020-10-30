@@ -1,3 +1,7 @@
+github.com/aobeom/minireq v1.0.0 h1:FggfX1IPNrWE0/HyoZzA6ZfuqpUW+tWY/O7N2DGDEuE=
+github.com/aobeom/minireq v1.0.0/go.mod h1:Y9etC33ATDWYz7kGu0H0XvGGcsqTDxWQq5GZ8kvYIcI=
+github.com/aobeom/minitools v1.0.4 h1:IxdYWub8XOtmaU8R9LDtWws5/uJrfRzK9uO4D3zBM0A=
+github.com/aobeom/minitools v1.0.4/go.mod h1:9+VRA2zOsRzA82a2AAd3HEpahzLpaJk91C0QEH4mMro=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
 golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=

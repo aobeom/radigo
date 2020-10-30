@@ -4,8 +4,8 @@ import (
 	"flag"
 	"fmt"
 	"log"
-	"net/http"
 	"os"
+	"path/filepath"
 
 	"radigo/radio"
 	"radigo/utils"
@@ -41,12 +41,13 @@ func rProgress(i int, amp float64) {
 
 // rThread 并发下载
 func rThread(url string, ch chan []byte, dl *DLServer) {
-	headers := make(http.Header)
-	headers.Add("User-Agent", radio.UserAgent)
-	body := utils.Minireq.GetBody(url, headers, nil)
+	headers := utils.MiniHeaders{
+		"User-Agent": radio.UserAgent,
+	}
+	res := utils.Minireq.Get(url, headers, nil)
 	dl.WG.Done()
 	<-dl.Gonum
-	ch <- body
+	ch <- res.RawData()
 }
 
 // rEngine 下载器
@@ -86,11 +87,12 @@ func rEngine(thread bool, urls []string, savePath string) {
 		dl.WG.Wait()
 	} else {
 		for i, url := range urls {
-			headers := make(http.Header)
-			headers.Add("User-Agent", radio.UserAgent)
-			body := utils.Minireq.GetBody(url, headers, nil)
+			headers := utils.MiniHeaders{
+				"User-Agent": radio.UserAgent,
+			}
+			res := utils.Minireq.Get(url, headers, nil)
 			offset, _ := aacFile.Seek(0, os.SEEK_END)
-			aacFile.WriteAt(body, offset)
+			aacFile.WriteAt(res.RawData(), offset)
 			rProgress(i, part)
 		}
 	}
@@ -103,7 +105,7 @@ func setPara() (radioData *radio.Params, m3u8Raw string) {
 	flag.Parse()
 
 	if *pProxy != "" {
-		utils.Proxy = *pProxy
+		utils.Minireq.Proxy(*pProxy)
 	}
 
 	if *pRawList == "" {
@@ -154,7 +156,8 @@ func main() {
 	if rawFile == "" {
 		// 设置保存路径
 		saveName := fmt.Sprintf("%s.%s.%s.aac", radioData.StationID, radioData.StartAt, radioData.EndAt)
-		savePath := utils.LocalPath(saveName)
+		workDir := utils.FileSuite.LocalPath(radio.Debug)
+		savePath := filepath.Join(workDir, saveName)
 
 		StationChecker(radioData.StationID)
 		log.Println("Checking Your IP...")
@@ -178,9 +181,10 @@ func main() {
 		}
 	} else {
 		saveName := fmt.Sprintf("%s.raw.acc", time.Now().Format("2006-01-02-15-04-05"))
-		savePath := utils.LocalPath(saveName)
-		rawData := utils.ReadFile(rawFile)
-		aacURLs := radio.FilterAAC(rawData)
+		workDir := utils.FileSuite.LocalPath(radio.Debug)
+		savePath := filepath.Join(workDir, saveName)
+		rawData := utils.FileSuite.Read(rawFile)
+		aacURLs := radio.FilterAAC(string(rawData))
 		msg := fmt.Sprintf("Total: %d", len(aacURLs))
 		log.Println(msg)
 		rEngine(true, aacURLs, savePath)
